@@ -1,7 +1,7 @@
 {
   "name": "iccc2026",
   "version": "0.1.0",
-  "homepage": "https://mfpullen22.github.io/iccc2026",
+  "homepage": "https://iccc2026.org",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.7",
