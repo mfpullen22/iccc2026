@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iccc2026/static/css/main.dfd2b2cf.css",
+    "main.js": "/iccc2026/static/js/main.afd7aa3f.js",
+    "static/js/787.7cccffa8.chunk.js": "/iccc2026/static/js/787.7cccffa8.chunk.js",
+    "index.html": "/iccc2026/index.html",
+    "main.dfd2b2cf.css.map": "/iccc2026/static/css/main.dfd2b2cf.css.map",
+    "main.afd7aa3f.js.map": "/iccc2026/static/js/main.afd7aa3f.js.map",
+    "787.7cccffa8.chunk.js.map": "/iccc2026/static/js/787.7cccffa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd2b2cf.css",
+    "static/js/main.afd7aa3f.js"
+  ]
+}
