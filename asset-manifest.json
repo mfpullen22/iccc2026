@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.dfd2b2cf.css",
-    "main.js": "/static/js/main.6227ad2e.js",
+    "main.js": "/static/js/main.26f923bf.js",
     "static/js/787.7cccffa8.chunk.js": "/static/js/787.7cccffa8.chunk.js",
     "static/media/exeter_pic.png": "/static/media/exeter_pic.86251be8f88c2c06c691.png",
     "static/media/background1.jpg": "/static/media/background1.1d2584a2d524f98ba733.jpg",
     "static/media/exeter_logo.jpg": "/static/media/exeter_logo.88a72a1540fd7612d5df.jpg",
     "index.html": "/index.html",
     "main.dfd2b2cf.css.map": "/static/css/main.dfd2b2cf.css.map",
-    "main.6227ad2e.js.map": "/static/js/main.6227ad2e.js.map",
+    "main.26f923bf.js.map": "/static/js/main.26f923bf.js.map",
     "787.7cccffa8.chunk.js.map": "/static/js/787.7cccffa8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd2b2cf.css",
-    "static/js/main.6227ad2e.js"
+    "static/js/main.26f923bf.js"
   ]
 }
